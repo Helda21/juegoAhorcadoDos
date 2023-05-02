@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\bin\Debug\AhorcadoAvanzado.exe.config
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\bin\Debug\AhorcadoAvanzado.exe
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\bin\Debug\AhorcadoAvanzado.pdb
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\obj\Debug\AhorcadoAvanzado.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\obj\Debug\AhorcadoAvanzado.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\obj\Debug\AhorcadoAvanzado.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\obj\Debug\AhorcadoAvanzado.exe
+C:\Users\LENOVO\source\repos\AhorcadoAvanzado\AhorcadoAvanzado\obj\Debug\AhorcadoAvanzado.pdb
